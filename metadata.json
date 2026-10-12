@@ -1,0 +1,6 @@
+{
+  "name": "ShinkafiRide.ng - Ride-Hailing, Transport & Security Platform",
+  "description": "Full-stack Nigerian ride-hailing and fleet safety management platform connecting passengers, drivers, transport operators, and security oversight in Shinkafi, Zamfara State.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
